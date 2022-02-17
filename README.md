@@ -1,2 +1,2 @@
 # Mercatus
-An open window on the vast land of markets
+An open source window on the vast land of markets.
